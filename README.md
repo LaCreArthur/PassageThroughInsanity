@@ -2,6 +2,7 @@
 Passage Through Insanity is a 48h Game Jam Project made by a team of 4 programmers using Unity3D (without any graphic-designer so we only used free graphical assets from the store ahah).
 
 It was submitted for the Global Game Jam 2016 on itch.io here : 
+
 http://globalgamejam.org/2016/games/passage-through-insanity
 
 ## Description of the Game
