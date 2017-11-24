@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 38c936179f3d38d43a7d86399fe7b040
+timeCreated: 1454175969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Armature.001
+    100006: Bone.00
+    100008: Bone.00 1
+    100010: Bone.01
+    100012: Bone.01 1
+    100014: Bone.02
+    100016: Bone.02 1
+    100018: Bone.03
+    100020: Bone.03 1
+    100022: Bone.04
+    100024: Bone.04 1
+    100026: Bone.05
+    100028: Bone.05 1
+    100030: Bone.06
+    100032: Bone.06 1
+    100034: Bone.07
+    100036: Bone.07 1
+    100038: Bone.08
+    100040: Bone.08 1
+    100042: Bone.09
+    100044: Bone.09 1
+    100046: Bone.10
+    100048: Bone.10 1
+    100050: Bone.11
+    100052: Bone.11 1
+    100054: Bone.12
+    100056: Bone.12 1
+    100058: Bone.13
+    100060: Bone.13 1
+    100062: Bone.14
+    100064: Bone.14 1
+    100066: Bone.15
+    100068: Bone.15 1
+    100070: Bone.16
+    100072: Bone.16 1
+    100074: Bone.16_end
+    100076: Bone.16_end 1
+    100078: Bone.17
+    100080: Bone.17 1
+    100082: Bone.17_end
+    100084: Bone.17_end 1
+    100086: Bone.18
+    100088: Bone.18 1
+    100090: Bone.19
+    100092: Bone.19 1
+    100094: Bone.19_end
+    100096: Bone.19_end 1
+    100098: Bone.20
+    100100: Bone.20 1
+    100102: Bone.21
+    100104: Bone.21 1
+    100106: Bone.22
+    100108: Bone.22 1
+    100110: Bone.23
+    100112: Bone.23 1
+    100114: Bone.24
+    100116: Bone.24 1
+    100118: Bone.24_end
+    100120: Bone.24_end 1
+    100122: Bone.25
+    100124: Bone.25 1
+    100126: Bone.26
+    100128: Bone.26 1
+    100130: Bone.27
+    100132: Bone.27 1
+    100134: Bone.28
+    100136: Bone.28 1
+    100138: Bone.29
+    100140: Bone.29 1
+    100142: Bone.30
+    100144: Bone.30 1
+    100146: Bone.31
+    100148: Bone.31 1
+    100150: Bone.32
+    100152: Bone.32 1
+    100154: Bone.33
+    100156: Bone.33 1
+    100158: Bone.34
+    100160: Bone.34 1
+    100162: Bone.35
+    100164: Bone.35 1
+    100166: Bone.36
+    100168: Bone.36 1
+    100170: Bone.36_end
+    100172: Bone.36_end 1
+    100174: Bone.37
+    100176: Bone.37 1
+    100178: Bone.38
+    100180: Bone.38 1
+    100182: Bone.38_end
+    100184: Bone.38_end 1
+    100186: Bone.39
+    100188: Bone.39 1
+    100190: Bone.40
+    100192: Bone.40 1
+    100194: Bone.41
+    100196: Bone.41 1
+    100198: Bone.42
+    100200: Bone.42 1
+    100202: Bone.43
+    100204: Bone.43 1
+    100206: Bone.43_end
+    100208: Bone.43_end 1
+    100210: Bone.44
+    100212: Bone.44 1
+    100214: Cube
+    100216: Cube.001
+    100218: Cube.002
+    100220: Cube.003
+    100222: Cylinder
+    100224: Plane
+    100226: Plane.001
+    400000: //RootNode
+    400002: Armature
+    400004: Armature.001
+    400006: Bone.00
+    400008: Bone.00 1
+    400010: Bone.01
+    400012: Bone.01 1
+    400014: Bone.02
+    400016: Bone.02 1
+    400018: Bone.03
+    400020: Bone.03 1
+    400022: Bone.04
+    400024: Bone.04 1
+    400026: Bone.05
+    400028: Bone.05 1
+    400030: Bone.06
+    400032: Bone.06 1
+    400034: Bone.07
+    400036: Bone.07 1
+    400038: Bone.08
+    400040: Bone.08 1
+    400042: Bone.09
+    400044: Bone.09 1
+    400046: Bone.10
+    400048: Bone.10 1
+    400050: Bone.11
+    400052: Bone.11 1
+    400054: Bone.12
+    400056: Bone.12 1
+    400058: Bone.13
+    400060: Bone.13 1
+    400062: Bone.14
+    400064: Bone.14 1
+    400066: Bone.15
+    400068: Bone.15 1
+    400070: Bone.16
+    400072: Bone.16 1
+    400074: Bone.16_end
+    400076: Bone.16_end 1
+    400078: Bone.17
+    400080: Bone.17 1
+    400082: Bone.17_end
+    400084: Bone.17_end 1
+    400086: Bone.18
+    400088: Bone.18 1
+    400090: Bone.19
+    400092: Bone.19 1
+    400094: Bone.19_end
+    400096: Bone.19_end 1
+    400098: Bone.20
+    400100: Bone.20 1
+    400102: Bone.21
+    400104: Bone.21 1
+    400106: Bone.22
+    400108: Bone.22 1
+    400110: Bone.23
+    400112: Bone.23 1
+    400114: Bone.24
+    400116: Bone.24 1
+    400118: Bone.24_end
+    400120: Bone.24_end 1
+    400122: Bone.25
+    400124: Bone.25 1
+    400126: Bone.26
+    400128: Bone.26 1
+    400130: Bone.27
+    400132: Bone.27 1
+    400134: Bone.28
+    400136: Bone.28 1
+    400138: Bone.29
+    400140: Bone.29 1
+    400142: Bone.30
+    400144: Bone.30 1
+    400146: Bone.31
+    400148: Bone.31 1
+    400150: Bone.32
+    400152: Bone.32 1
+    400154: Bone.33
+    400156: Bone.33 1
+    400158: Bone.34
+    400160: Bone.34 1
+    400162: Bone.35
+    400164: Bone.35 1
+    400166: Bone.36
+    400168: Bone.36 1
+    400170: Bone.36_end
+    400172: Bone.36_end 1
+    400174: Bone.37
+    400176: Bone.37 1
+    400178: Bone.38
+    400180: Bone.38 1
+    400182: Bone.38_end
+    400184: Bone.38_end 1
+    400186: Bone.39
+    400188: Bone.39 1
+    400190: Bone.40
+    400192: Bone.40 1
+    400194: Bone.41
+    400196: Bone.41 1
+    400198: Bone.42
+    400200: Bone.42 1
+    400202: Bone.43
+    400204: Bone.43 1
+    400206: Bone.43_end
+    400208: Bone.43_end 1
+    400210: Bone.44
+    400212: Bone.44 1
+    400214: Cube
+    400216: Cube.001
+    400218: Cube.002
+    400220: Cube.003
+    400222: Cylinder
+    400224: Plane
+    400226: Plane.001
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cylinder
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cylinder
+    4300000: Plane.001
+    4300002: Cube.003
+    4300004: Cube.002
+    4300006: Plane
+    4300008: Cube.001
+    4300010: Cylinder
+    4300012: Cube
+    6400000: Cube
+    6400002: Cube.001
+    6400004: Cube.002
+    6400006: Cube.003
+    6400008: Cylinder
+    9500000: //RootNode
+    13700000: Plane
+    13700002: Plane.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
